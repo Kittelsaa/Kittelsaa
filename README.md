@@ -1,13 +1,12 @@
-# Hi there 👋
---- 
+# Hi, I'm Kittelsaa
 
-Paragraph about me section
+## I'm a Software Engineer & I enjoy exploring how we build & use software.
 
 ---
 
-### Connect with me:
+### Let's Connect
 <p align="left">
-<a href="[https://www.linkedin.com/in/kittelsaa-nyampundu-467858253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BJUuTxn%2FwRJO7Od%2FMkIE0ug%3D%3D]"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" height="20"/></a>
+<a href="[https://www.linkedin.com/in/kittelsaa-nyampundu-467858253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BJUuTxn%2FwRJO7Od%2FMkIE0ug%3D%3D]"><img src="https://img.shields.io/badge/LinkedIn-FE762D?style=flat&logo=linkedin&logoColor=white" height="20"/></a>
 <a href="[https://www.instagram.com/kttlsaa/]"><img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white" height="20"/></a>
 <a href="[https://mail.google.com/mail/?view=cm&fs=1&to=kttlsaa@gmail.com]"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" height="20"/></a>
 </p>
