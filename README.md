@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+--- 
 
-<!--
-# 
 Paragraph about me section
 
 ---
@@ -28,4 +27,3 @@ Paragraph about me section
 <img src="https://img.shields.io/badge/MDX-000000?style=flat&logo=mdx&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white" height="20"/>
 </p>
--->
