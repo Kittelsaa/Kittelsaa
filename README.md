@@ -1,5 +1,5 @@
-# Hi, it's Kittelsaa🦀
-I'm a Software Engineer & I enjoy exploring how we build & use software.
+# Hi, I'm Kittelsaa🦀
+A Software Engineer who enjoys programming & exploring how we build & use software.
 
 ### Let's Connect
 <p align="left">
