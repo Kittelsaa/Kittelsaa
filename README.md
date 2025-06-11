@@ -1,5 +1,5 @@
-# Hi, I'm Kittelsaa🌕
-A Software Engineer who enjoys programming & exploring how we build & use software.
+# Hey, I'm Kittelsaa🌕
+I’m a software engineer, product designer and writer, currently living in Rwanda, Kigali. I enjoy exploring how we build & use software. Right now I’m building a notes taking app.
 
 ### Let's Connect
 <p align="left">
