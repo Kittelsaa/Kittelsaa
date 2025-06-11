@@ -1,4 +1,4 @@
-# Hi, I'm Kittelsaa🐃
+# Hi, I'm Kittelsaa🍃
 A Software Engineer who enjoys programming & exploring how we build & use software.
 
 ### Let's Connect
