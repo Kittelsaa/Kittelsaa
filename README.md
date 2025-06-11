@@ -12,14 +12,14 @@ I’m a software engineer, product designer & writer, currently living in Rwanda
 
 ### Tech Stack:
 <p align="left">
+<img src="https://img.shields.io/badge/Python-FE762D?style=flat&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/C++-232323?style=flat&logo=cplusplus&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/JavaScript-FE762D?style=flat&logo=javascript&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/React-232323?style=flat&logo=react&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/React_Native-FE762D?style=flat&logo=react&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Next.js-232323?style=flat&logo=next.js&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Astro-FE762D?style=flat&logo=astro&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Node.js-232323?style=flat&logo=node.js&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Python-FE762D?style=flat&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/C++-232323?style=flat&logo=cplusplus&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/CSS3-FE762D?style=flat&logo=css3&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Sass-232323?style=flat&logo=sass&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/MDX-FE762D?style=flat&logo=mdx&logoColor=white" height="20"/>
