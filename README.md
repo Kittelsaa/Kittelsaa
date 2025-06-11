@@ -1,7 +1,6 @@
 # Hi, I'm Kittelsaa
 
-## I'm a Software Engineer & I enjoy exploring how we build & use software.
-
+I'm a Software Engineer & I enjoy exploring how we build & use software.
 ---
 
 ### Let's Connect
