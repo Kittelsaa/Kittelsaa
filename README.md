@@ -5,7 +5,9 @@ I’m a software engineer, product designer & writer, currently living in Rwanda
 <p align="left">
 <a href="https://www.linkedin.com/in/kittelsaa-nyampundu-467858253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BJUuTxn%2FwRJO7Od%2FMkIE0ug%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-232323?style=flat&logo=linkedin&logoColor=white" height="20"/></a>
 <a href="https://www.instagram.com/kttlsaa/"><img src="https://img.shields.io/badge/Instagram-FE762D?style=flat&logo=instagram&logoColor=white" height="20"/></a>
-<a href="mailto:kttlsaa@gmail.com"><img src="https://img.shields.io/badge/Email-232323?style=flat&logo=gmail&logoColor=white" height="20"/></a>
+<a href="mailto:kttlsaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-232323?style=flat&logo=gmail&logoColor=white" height="20"/>
+</a>
 <a href="https://bsky.app/profile/kittelsaa.bsky.social"><img src="https://img.shields.io/badge/Bluesky-FE762D?style=flat&logo=bluesky&logoColor=white" height="20"/></a>
 <a href="https://indieweb.social/@kttlsaa"><img src="https://img.shields.io/badge/IndieWeb-232323?style=flat&logo=indieweb&logoColor=white" height="20"/></a>
 </p>
