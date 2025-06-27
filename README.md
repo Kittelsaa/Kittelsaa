@@ -20,7 +20,7 @@ I’m a software engineer & product designer, currently living in Rwanda. I enjo
 <img src="https://img.shields.io/badge/React-FE762D?style=flat&logo=react&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/React_Native-232323?style=flat&logo=react&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Next.js-FE762D?style=flat&logo=next.js&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Vue.js-232323?style=flat&logo=vue.js&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/SolidJS-232323?style=flat&logo=solidjs&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Angular-FE762D?style=flat&logo=angular&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Astro-232323?style=flat&logo=astro&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Node.js-FE762D?style=flat&logo=node.js&logoColor=white" height="20"/>
