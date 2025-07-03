@@ -1,7 +1,7 @@
 # Hey, I'm Kittelsaa🍃
 I’m a software engineer & product designer, currently living in Rwanda. I enjoy exploring how we build & use software, right now I’m building a notes taking app.
 
-### Let's Connect (<a href="https://www.kttlsaa.com/">kttlsaa</a>)
+### Personal Wiki/Digital Garden (<a href="https://www.kttlsaa.com/">kttlsaa</a>)
 <p align="left">
 <a href="https://www.linkedin.com/in/kittelsaa-nyampundu-467858253/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BJUuTxn%2FwRJO7Od%2FMkIE0ug%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-232323?style=flat&logo=linkedin&logoColor=white" height="20"/></a>
 <a href="https://www.instagram.com/kttlsaa/"><img src="https://img.shields.io/badge/Instagram-FE762D?style=flat&logo=instagram&logoColor=white" height="20"/></a>
