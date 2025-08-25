@@ -26,7 +26,6 @@ I’m a software engineer & product designer, currently living in Rwanda. I enjo
 <img src="https://img.shields.io/badge/Tailwind_CSS-232323?style=flat&logo=tailwind-css&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/MDX-FE762D?style=flat&logo=mdx&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/PostgreSQL-232323?style=flat&logo=postgresql&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/MySQL-FE762D?style=flat&logo=mysql&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Next.js-232323?style=flat&logo=next.js&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Astro-FE762D?style=flat&logo=astro&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Next.js-232323?style=flat&logo=next.js&logoColor=white" height="20"/>
 </p>
