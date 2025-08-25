@@ -11,16 +11,13 @@ I’m a software engineer & product designer, currently living in Rwanda. I enjo
 
 ### Tech Stack:
 <p align="left">
+<img src="https://img.shields.io/badge/TypeScript-232323?style=flat&logo=typescript&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Python-FE762D?style=flat&logo=python&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/C++-232323?style=flat&logo=cplusplus&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/JavaScript-FE762D?style=flat&logo=javascript&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/TypeScript-232323?style=flat&logo=typescript&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Go-FE762D?style=flat&logo=go&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/React-232323?style=flat&logo=react&logoColor=white" height="20"/>
-  <img src="https://img.shields.io/badge/Rust-FE762D?style=flat&logo=rust&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Rust-FE762D?style=flat&logo=rust&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/SolidJS-232323?style=flat&logo=solidjs&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Angular-FE762D?style=flat&logo=angular&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Astro-232323?style=flat&logo=astro&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Node.js-FE762D?style=flat&logo=node.js&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Express.js-232323?style=flat&logo=express&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Redux-FE762D?style=flat&logo=redux&logoColor=white" height="20"/>
@@ -31,4 +28,5 @@ I’m a software engineer & product designer, currently living in Rwanda. I enjo
 <img src="https://img.shields.io/badge/PostgreSQL-232323?style=flat&logo=postgresql&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/MySQL-FE762D?style=flat&logo=mysql&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/Next.js-232323?style=flat&logo=next.js&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Astro-FE762D?style=flat&logo=astro&logoColor=white" height="20"/>
 </p>
