@@ -10,7 +10,7 @@ I’m a software engineer & product designer, currently living in Rwanda. I enjo
     <img src="https://img.shields.io/badge/LinkedIn-232323?style=flat&logo=linkedin&logoColor=white" height="20"/>
   </a>
   <a href="https://indieweb.social/@kttlsaa">
-    <img src="https://img.shields.io/badge/IndieWeb-FE762D?style=flat&logo=indieweb&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Mastodon-FE762D?style=flat&logo=mastodon&logoColor=white" height="20"/>
   </a>
   <a href="https://bsky.app/profile/kittelsaa.bsky.social">
     <img src="https://img.shields.io/badge/Bluesky-232323?style=flat&logo=bluesky&logoColor=white" height="20"/>
