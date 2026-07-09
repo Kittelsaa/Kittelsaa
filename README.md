@@ -1,5 +1,5 @@
 # Hey, I'm Kittelsaa🦀
-I’m a software engineer & product designer, currently living in Rwanda. I enjoy exploring how we build & use software, right now I’m building a notes taking app.
+I’m a software engineer currently living in Rwanda. I have a deep interest in the philosophy and I enjoy exploring how we build & use software, right now I’m building a notes taking app.
 
 ### Personal Wiki/Digital Garden: <a href="https://www.kttlsaa.com/">kttlsaa</a>
 <p align="left">
